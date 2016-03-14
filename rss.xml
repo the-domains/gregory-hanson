@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Gregory Hanson]]></title>
         <description><![CDATA[Gregory Hanson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gregory-hanson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 21:18:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 21:18:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gregory-hanson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49faa9e6-119a-4aec-81d9-81598dd8aed3.jpg">]]></description>
+            <link>https://thegrid.ai/gregory-hanson/nice-to-have-a-prius-even-a-formerly-owned-one-currently/index.html</link>
+            <guid isPermaLink="false">26f6303b-b710-42ad-ba8d-b06d548d66b5</guid>
+            <pubDate>Mon, 14 Mar 2016 21:18:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f6b98e-6712-40c6-9548-e2b413a36089.jpg">]]></description>
-            <link>undefineda-picture-from-our-neighborhood-in-asheville-north-carolina/index.html</link>
+            <link>https://thegrid.ai/gregory-hanson/a-picture-from-our-neighborhood-in-asheville-north-carolina/index.html</link>
             <guid isPermaLink="false">15ef902b-a89a-41be-b0d5-f20e1986573c</guid>
             <pubDate>Mon, 14 Mar 2016 21:18:51 GMT</pubDate>
         </item>
