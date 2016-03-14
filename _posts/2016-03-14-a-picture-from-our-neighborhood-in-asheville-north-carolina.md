@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A picture from our neighborhood in Asheville, North Carolina. This area of the country is a wonderful place to explore with a camera and a tripod.'
-datePublished: '2016-03-14T21:18:51.570Z'
-dateModified: '2016-03-14T20:51:18.459Z'
+datePublished: '2016-03-14T21:47:21.789Z'
+dateModified: '2016-03-14T21:47:04.217Z'
 title: ''
 author: []
 authors: []
@@ -23,5 +23,4 @@ _type: Article
 
 ---
 A picture from our neighborhood in Asheville, North Carolina. This area of the country is a wonderful place to explore with a camera and a tripod.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f6b98e-6712-40c6-9548-e2b413a36089.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe267acd-ebbe-428d-9f4d-54eacee579c1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/792e0697-54db-4eb6-97a9-1828e2563aa1.jpg)
